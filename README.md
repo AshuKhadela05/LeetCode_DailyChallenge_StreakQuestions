@@ -12,10 +12,7 @@ This repo contains my personal solutions for LeetCode's Daily Challenges. It inc
 
 ## 📅 Streak Progress
 
-- ✅ Day 1: [Problem Name](https://leetcode.com/problems/...) - (Difficulty)
-- ✅ Day 2: [Problem Name](https://leetcode.com/problems/...) - (Difficulty)
-- ✅ Day 3: ...
-- 📈 Streak: **X Days** and counting...
+- ✅ Day 1: [Using a Robot to Print the Lexicographically Smallest String]((https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/?envType=daily-question&envId=2025-06-06)) - (Difficulty Level = Medium)
 
 ## 🧠 Languages Used
 
