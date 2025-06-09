@@ -61,3 +61,7 @@ public class RobotStringMain {
         sc.close();
     }
 }
+
+// OUTPUT:
+// Enter the string: ashish
+// Lexicographically smallest result: ahhsis
