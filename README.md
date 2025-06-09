@@ -1,4 +1,5 @@
 # LeetCode_DailyChallenge_StreakQuestions
+---
 
 🚀 This repository is dedicated to maintaining a consistent streak of solving **LeetCode Daily Challenge Questions**. The goal is to practice daily, stay consistent, and improve problem-solving skills for technical interviews and competitive programming.
 
@@ -16,4 +17,5 @@ This repo contains my personal solutions for LeetCode's Daily Challenges. It inc
 
 ## 🧠 Languages Used
 
-- [x] Java
+- ✅ Java
+---
