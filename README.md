@@ -17,5 +17,5 @@ This repo contains my personal solutions for LeetCode's Daily Challenges. It inc
 
 ## 🧠 Languages Used
 
-- ✅ Java
+- ✅ JAVA
 ---
