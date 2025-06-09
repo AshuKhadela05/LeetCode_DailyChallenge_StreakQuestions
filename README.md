@@ -6,7 +6,7 @@
 
 This repo contains my personal solutions for LeetCode's Daily Challenges. It includes:
 - Clean and well-commented solutions
-- Java and Python implementations (if applicable)
+- Java implementations (if applicable)
 - Brief explanation and approach used for each problem
 - Problem link and difficulty level
 
