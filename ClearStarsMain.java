@@ -59,3 +59,7 @@ public class ClearStarsMain {
         sc.close();
     }
 }
+
+// OUTPUT:
+// Enter the string: aaba*
+// Final string after clearing stars: aab
