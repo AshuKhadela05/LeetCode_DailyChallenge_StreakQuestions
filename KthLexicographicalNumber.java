@@ -53,3 +53,8 @@ public class KthLexicographicalNumber {
         return steps;
     }
 }
+
+// OUTPUT:
+// Enter n: 20   Example: (1 10 11 12 13 14 15 16 17 18 19 2 20 3 4 5 6 7 8 9)
+// Enter k: 13
+// The 13-th smallest number in lexicographical order is: 20
