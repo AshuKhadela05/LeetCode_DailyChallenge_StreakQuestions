@@ -48,3 +48,7 @@ public class MaxDifferenceCalculator {
         sc.close();
     }
 }
+
+// OUTPUT:
+// Enter the String: aaaaabbc
+// Maximum Difference = 3
